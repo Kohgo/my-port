@@ -1,6 +1,6 @@
 // typing text hero
 const typed = new Typed(".typing-text", {
-  strings: ["Front-End Web Developer", "UI/UX Designer", "Content Creator"],
+  strings: ["Basic Front-End Web Developer", "Basic UI Designer", "Content Creator"],
   loop: true,
   typeSpeed: 55,
   backSpeed: 25,
@@ -52,12 +52,6 @@ function showCertification(certification) {
                 <p>By
                     <span>${certification.by}</span>
                 </p>
-                <div class="credentials">
-                    <a class="btn" target="_blank" href="${certification.links.credentials}">
-                        view credentials
-                        <i class="fas fa-angle-right"></i>
-                    </a>
-                </div>
             </div>
         </div>`;
   });
