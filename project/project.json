@@ -1,22 +1,22 @@
 [
     {
         "title": "Form Website",
-        "tech": "HTML & CSS",
-        "image": "./assets/img/project/form.png",
+        "tech": "PYTHON",
+        "image": "./assets/img/project/3 Runner up copy.png",
         "desc":"This is my first project. I Learn in freecodecamp to make form website using HTML & CSS",
         "links": {
-            "demo": "https://septiandwica.github.io/Survey-Form/",
-            "code": "https://github.com/Septiandwica/Survey-Form"
+    
+            "code": "https://colab.research.google.com/drive/1nF1xVQfrhU1MucjgSnvq8nHi5G_EDFv0?authuser=1"
         }
     },
     {
         "title": "Learn Code Website",
         "tech": "HTML, CSS & JS",
-        "image": "./assets/img/project/proyek web dasar.png",
+        "image": "./assets/img/project/Web capture_18-11-2023_195732_rush-project-ykrm.onrender.com.jpeg",
         "desc":"This is my for dicoding submission.",
         "links": {
-            "demo": "https://septiandwica.github.io/Project-Web-Dasar/",
-            "code": "https://github.com/Septiandwica/Project-Web-Dasar"
+            "demo": "https://rush-project-ykrm.onrender.com/",
+            "code": "https://github.com/Kohgo/rush"
         }
     },{
         "title": "BookShelf Web App",
@@ -24,7 +24,7 @@
         "image": "./assets/img/project/bookshelf app.png",
         "desc":"This is my project for dicoding submission.",
         "links": {
-            "demo": "https://septiandwica.github.io/bookshelf-app/",
+            "demo": "https://user-images.githubusercontent.com/129617105/267410162-a0e7aa95-5d66-4650-a830-9546325c5681.png",
             "code": "https://github.com/Septiandwica/bookshelf-app"
         }
     },{

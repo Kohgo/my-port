@@ -49,9 +49,6 @@ function showCertification(certification) {
                 <h3>
                     ${certification.name}
                 </h3>
-                <p>By
-                    <span>${certification.by}</span>
-                </p>
             </div>
         </div>`;
   });

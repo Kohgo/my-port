@@ -511,8 +511,8 @@ form .btn{
 .certification .content .box{
   box-shadow: 0 0 20px var(--second);
   position: relative;
-  height: 460px;
-  width: 320px;
+  height: 235px;
+  width: 340px;
   border-radius: 5px;
   transition: 1s;
 }
@@ -527,10 +527,10 @@ form .btn{
 }
 .certification .content .box .desc {
   text-align: center;
-  margin-top: 30px;
+  margin-top: 12px;
 }
 .certification .content .box .desc h3{
-  font-size: 20px;
+  font-size: 16px;
 }
 .certification .content .box .desc p{
   font-size: 16px;
