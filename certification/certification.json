@@ -7,52 +7,46 @@
     
         }
     }, {
-        "name": "Learn basic web programming",
-        "by": "Dicoding Academy x Lintasarta Cloudeka Digischool",
-        "image": "./certification/3 Runner up.png",
+        "name": "",
+        "image": "./certification/dp.png",
         "category":"programming",
         "links": {
             
         }
     }, {
-        "name": "Learn basic javascript programming",
-        "by": "Dicoding Academy x IndosatID Camp",
-        "image": "./certification/dp.png",
+        "name": "",
+        "image": "./certification/./IMG_5289.PNG",
         "category":"programming",
         "links": {
             "credentials": ""
         }
     }, {
-        "name": "Learn to Create a Web Front-End for Beginners",
-        "by": "Dicoding Academy x Lintasarta Cloudeka Digischool",
-        "image": "./certification/fe-dicoding.png",
+        "name": "",
+        "image": "./certification/python.png",
         "category":"programming",
         "links": {
             
         }
     }, {
-        "name": " Learn to Create Backend Applications for Beginners with Cloudeka",
-        "by": "Dicoding Academy x Lintasarta Cloudeka Digischool",
-        "image": "./certification/be-dicoding.png",
+        "name": " ",
+        "image": "./certification/IMG_5536.JPG",
         "category":"programming",
         "links": {
-            "credentials": "https://www.dicoding.com/certificates/QLZ9274YMX5D"
         }
         }, {
-            "name": "Learn basic javascript programming",
-            "by": "Dicoding Academy x IndosatID Camp",
-            "image": "./certification/dp.png",
+            "name": "",
+            
+            "image": "./certification/IMG_5538.JPG",
             "category":"programming",
             "links": {
-                "credentials": ""
             }
             }, {
-                "name": "Learn basic javascript programming",
-                "by": "Dicoding Academy x IndosatID Camp",
-                "image": "./certification/dp.png",
+                "name": "",
+                "image": "./certification/B1C163A0-27DC-4D7F-B103-9CECC63D48E3.png",
                 "category":"programming",
                 "links": {
-                    "credentials": ""
+                   
                 }
+            
     }
 ]

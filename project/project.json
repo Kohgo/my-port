@@ -1,49 +1,23 @@
 [
     {
-        "title": "Form Website",
+        "title": "Sale Analytic",
         "tech": "PYTHON",
-        "image": "./assets/img/project/3 Runner up copy.png",
-        "desc":"This is my first project. I Learn in freecodecamp to make form website using HTML & CSS",
+        "image": "./assets/img/project/Screenshot 2023-11-18 235055.png",
+        "desc":"This is my first project. I Learn in Python to make Sale analytic",
         "links": {
     
-            "code": "https://colab.research.google.com/drive/1nF1xVQfrhU1MucjgSnvq8nHi5G_EDFv0?authuser=1"
+            "demo": "https://colab.research.google.com/drive/1nF1xVQfrhU1MucjgSnvq8nHi5G_EDFv0?authuser=1",
+            "code": "https://github.com/Kohgo/Kohgo/blob/main/%E0%B8%AA%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87_sale_analysis.ipynb?short_path=43da053"
         }
     },
     {
-        "title": "Learn Code Website",
+        "title": "Rush Project",
         "tech": "HTML, CSS & JS",
         "image": "./assets/img/project/Web capture_18-11-2023_195732_rush-project-ykrm.onrender.com.jpeg",
-        "desc":"This is my for dicoding submission.",
+        "desc":"This is my project web about HTML CSS JS",
         "links": {
             "demo": "https://rush-project-ykrm.onrender.com/",
             "code": "https://github.com/Kohgo/rush"
-        }
-    },{
-        "title": "BookShelf Web App",
-        "tech": "HTML & CSS",
-        "image": "./assets/img/project/bookshelf app.png",
-        "desc":"This is my project for dicoding submission.",
-        "links": {
-            "demo": "https://user-images.githubusercontent.com/129617105/267410162-a0e7aa95-5d66-4650-a830-9546325c5681.png",
-            "code": "https://github.com/Septiandwica/bookshelf-app"
-        }
-    },{
-        "title": "Company Profile",
-        "tech": "HTML, CSS, JS & BOOTSTRAP",
-        "image": "./assets/img/project/proyek freelance.png",
-        "desc": "This is my project for company profile(Thalia Education)",
-        "links": {
-            "demo": "https://thaliaeducation.septiandwica.site",
-            "code": "https://github.com/Septiandwica/Company-Profile-1"
-        }
-    },{
-        "title": "Portfolio Website",
-        "tech": "HTML, CSS, JS & BOOTSTRAP",
-        "image": "./assets/img/project/portfolio.png",
-        "desc": "This is my project for personal portfolio.",
-        "links": {
-            "demo": "https://septiandwica.site",
-            "code": "https://github.com/Septiandwica/"
         }
     }
 ]
