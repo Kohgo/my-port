@@ -542,7 +542,7 @@ form .btn{
   color: var(--light);
 }
 .certification .content .box .desc .credentials a:hover{
-  background: var(--second);
+  background: var(--danger);
 }
 .certification .loadmore-btn a{
   font-size: 18px;
@@ -655,9 +655,125 @@ form .btn{
 }
 
 
+/* Activity */
+.activity {
+  min-height: 50vh;
+  
+}
+
+.activity .container .title h2 {
+  font-size: 40px;
+  padding-top: 120px;
+  font-weight: 800;
+  color: var(--danger);
+}
+.activity .container .title i {
+  color: var(--second);
+  font-size: 38px;
+ 
+}
+
+.activity .container .content {
+  margin: 0px;
+ 
+}
+
+.activity .container .content .activity-card {
+  border-radius: 5px;
+  position: relative;
+  height: 350px;
+  width: 480px;
+  overflow: hidden;
+  flex: 1 1 400px;
+  cursor: pointer;
+  margin: 20px;
+}
+.activity .container .content .activity-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+ 
+}
+.activity .container .content .activity-card .desc-content {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 64%;
+  background: var(--second);
+  transition: .8s;
+  margin-top: 80px;
+}
+.activity .container .content .activity-card .desc-content .tag,
+.activity .container .content .activity-card .desc-content .desc {
+  margin-left: 10px;
+}
+
+.activity .container .content .activity-card .desc-content .tag {
+  height: 90px;
+}
+.activity .container .content .activity-card .desc-content .tag h3 {
+  font-size: 18px;
+  margin-top: 20px;
+  font-weight: 600;
+  color: var(--danger);
+}
+.activity .container .content .activity-card .desc-content .tag h5 {
+  color: var(--display);
+  font-weight: 600;
+  font-size: 18px;
+}
+.activity .container .content .activity-card:hover .desc-content {
+  top: 25%;
+}
+.activity .container .content .desc p {
+  font-size: 16px;
+}
+.activity .container .content .desc .btns {
+  width: 100%;
+}
+.activity .container .content .desc .btns .btn {
+  line-height: 0;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 16px;
+  letter-spacing: 1.5px;
+  color: var(--light);
+  background: var(--second);
+}
+.activity .container .content .desc .btns .btn:hover {
+  background: var(--danger);
+  transform: scale(.95);
+
+}
+.activity .container .viewall-btn .btn {
+  font-size: 18px;
+  text-align: center;
+  font-weight: 600;
+  margin-bottom: 50px;
+  
+  color: var(--dark);
+  
+}
+
+.activity .container .viewall-btn .btn:hover {
+  background: var(--danger);
+  color: var(--dark);
+}
+.activity .container .viewall-btn .btn:hover i {
+  transform: translateX(5px);
+  transition: .5s;
+}
+
+
+
+
+
 /* contact */
 .contact{
   height: 80vh;
+  background: #0003a0;
+  max-width: 1600px;
+  max-height: 450px;
 }
 
 
@@ -665,19 +781,53 @@ form .btn{
   max-width: 650px;
   font-size: 20px;
   margin: 40px;
+  color: var(--light);
 }
 .contact a{
 
   font-size: 20px;
+  color: var(--danger);
 }
 
 .contact h2{
   font-size: 40px;
   font-weight: 800;
+  color: var(--danger);
+  
 
 }
 .contact h2 span{
-  color: var(--primary);
+  color: var(--light);
+}
+
+/* contact */
+.contact{
+  height: 100vh;
+ 
+}
+
+
+.contact p{
+  max-width: 650px;
+  font-size: 20px;
+  margin: 40px;
+  color: var(--dark);
+}
+.contact a{
+
+  font-size: 20px;
+  color: var(--dark);
+}
+
+.contact h2{
+  font-size: 40px;
+  font-weight: 800;
+  color: var(--danger);
+
+}
+
+.contact h2 span{
+  color: var(--dark);
 }
 
 
@@ -688,12 +838,13 @@ footer{
 }
 
 footer .top{
-  background: #0003a0;
+ 
 }
 
 footer .bottom{
   background: #000155;
-  color: var(--light);
+  color: var(--danger);
+ 
 }
 footer .bottom a{
   text-decoration: none;
@@ -701,11 +852,12 @@ footer .bottom a{
 footer .content{
     margin: 20px;
     text-decoration: none;
-    color: var(--light);
+    color: var(--dark);
 }
 footer .content img{
   width: 50px;
   margin-bottom: 10px;
+  
 }
 footer .content:nth-child(3) a i{
   color: var(--danger);
@@ -713,7 +865,7 @@ footer .content:nth-child(3) a i{
 footer .content a, 
 footer .content p{
   text-decoration: none;
-  color: var(--light);
+  color: var(--dark);
   margin-bottom: 6px;
   font-size: 18px;
 }footer .content a:hover{
@@ -744,15 +896,8 @@ footer .content .socials a:active,
 footer .content .socials a:focus,
 footer .content .socials a:hover {
   background-color: var(--danger);
-  color: var(--second-light);
+  color: var(--third);
 }
-
-footer .content .socials a.github:hover,
-footer .content .socials a.linkedin:hover,
-footer .content .socials a.instagram:hover {
-  background-color: var(--dark);
-}
-
 
 @media screen and (max-width: 860px) {
   footer .top{

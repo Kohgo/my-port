@@ -74,6 +74,9 @@
                         <li class="nav-item mx-2">
                             <a class="nav-link" href="#project">Projects</a>
                         </li>
+                        <li class="nav-item mx-2">
+                            <a class="nav-link" href="#activity">Activity</a>
+                        </li>
                     
                     </ul>
                     <form>
@@ -166,17 +169,24 @@
                         <div class="hire-me">
                             <p>
                                 <span>
-                                    <i class="fa fa-envelope"></i>
-                                    Email :
-                                </span>
-                                Kohgozii1@gmail.com
+                                    <a
+                                    href="mailto:Kohgozii1@gmail.com"
+                                    rel="noopener noreferrer"
+                                    target="_blank">
+                                    <i class="fas fa-envelope"></i>
+                                    Kohgozii1@gmail.com</a>
+                                <a>
                             </p>
                             <p>
                                 <span>
-                                    <i class="fa fa-map-marked"></i>
-                                    Place :
-                                </span>
-                                Nangrong district Buriram province, Thailand
+                                    <a
+                        href="https://maps.app.goo.gl/VPjme8HD3oBWaqYD8"
+                        rel="noopener noreferrer"
+                        target="_blank">
+                        <i class="fas fa-map-marked-alt"></i>
+                        Nangrong District Buriram Province, Thailand</a>
+
+                    </a>
                             </p>
                         </div>
                         <div class="cv-btn d-flex flex-column">
@@ -256,6 +266,8 @@
                 </a>
             </div>
         </section>
+        
+    
 
         <section class="project " id="project">
             <div
@@ -268,15 +280,6 @@
                 <div
                     class="content d-flex flex-row flex-wrap align-items-center justify-content-center"
                     data-aos="fade-down">
-                    <!-- <div class="cards"> <img draggable="false"
-                    src="/assets/img/project/form.png" alt=""/> <div class="container"> <div
-                    class="tag"> <h3>Form Website</h3> <h5>HTML & CSS</h5> </div> <div class="desc">
-                    <p> This is my first project. I Learn in freecodecamp to make form website using
-                    HTML & CSS </p> <div class="btns d-flex justify-content-sm-around"> <a
-                    href="https://septiandwica.github.io/Survey-Form/" class="btn" target="_blank">
-                    <i class="fas fa-eye"></i> Demo</a > <a
-                    href="https://github.com/Septiandwica/Survey-Form" class="btn" target="_blank">
-                    <i class="fas fa-code"></i>Code</a > </div> </div> </div> </div> -->
                 </div>
                 <div class="viewall-btn d-flex my-5 ">
                     <a href="#project" class=" btn btn-outline-light" data-aos="fade-down">
@@ -284,10 +287,22 @@
                         <i class="fas fa-angle-right"></i>
                     </a>
                 </div>
-            </div>
-        </section>
-
-        <section
+            </section>
+            <section class="activity" id="activity">
+                <div class="container d-flex flex-wrap justify-content-center align-items-center">
+                    <div class="title" data-aos="fade-down" data-aos-duration="1000">
+                        <h2 class="text-center">
+                            <i class="fa fa-laptop-code"></i>
+                            Activities</h2>
+                    </div>
+                    <div class="content d-flex flex-row flex-wrap align-items-center justify-content-center"
+                        data-aos="fade-down">
+                        <!-- Your activity cards go here -->
+                    </div>
+                </div>
+                
+            </section>
+            <section
             id="contact"
             class="contact d-flex flex-column align-items-center justify-content-center text-center">
             <h2 class="title" data-aos="fade-down" data-aos-duration="1000">Get In
@@ -305,7 +320,39 @@
                 <i class="fa fa-envelope"></i>
             </a>
         </section>
+        <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        #videoContainer {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh; /* ทำให้ div ทั้งหมดเต็มสูงของหน้าจอ */
+        }
 
+        #myVideo {
+            width: 320px; /* กำหนดขนาดตามที่คุณต้องการ */
+            height: 180px; /* กำหนดขนาดตามที่คุณต้องการ */
+        }
+    </style>
+    <title>Centered and Resized Video</title>
+</head>
+<body>
+
+<section id="videoContainer">
+    <iframe id="myVideo" src="https://www.youtube.com/embed/xu2I20mt9Yg" frameborder="0" allowfullscreen></iframe>
+</section>
+
+</body>
+</html>
+
+    
+
+        
+        <script src="your_script.js"></script>
         <footer id="footer" class="footer d-flex flex-column">
             <div class="top d-flex justify-content-sm-around">
                 <div class="content  d-flex flex-column">
@@ -327,6 +374,9 @@
                     <a href="#project">
                         <i class="fa fa-arrow-circle-right"></i>
                         Projects</a>
+                        <a href="#activity">
+                            <i class="fa fa-arrow-circle-right"></i>
+                            Activity</a>
                 </div>
                 <div class="content  d-flex flex-column">
                     <h4>Contact</h4>
@@ -337,9 +387,13 @@
                         <i class="fas fa-envelope"></i>
                         Kohgozii1@gmail.com</a>
                     <a>
+
+                    <a
+                        href="https://maps.app.goo.gl/VPjme8HD3oBWaqYD8"
+                        rel="noopener noreferrer"
+                        target="_blank">
                         <i class="fas fa-map-marked-alt"></i>
-                        </a>
-                       Nangrong District Buriram Province, Thailand
+                        Nangrong District Buriram Province, Thailand</a>
 
                     </a>
                     <div class="socials">
@@ -395,5 +449,7 @@
         <script src="src/particle.js"></script>
         <script src="src/app.js"></script>
         <script src="src/script.js"></script>
+        <script src="src/script1.js"></script>
+        <script src="src/script2.js"></script>
     </body>
 </html>

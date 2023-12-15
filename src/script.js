@@ -25,39 +25,52 @@ window.addEventListener("scroll", function () {
 
 // fetchData API
 async function fetchData(type = "certification") {
-  let response;
-  type === "certification"
-    ? (response = await fetch("certification/certification.json"))
-    : (response = await fetch("project/project.json"));
+  let endpoint;
+  
+  switch (type) {
+    case "certification":
+      endpoint = "certification/certification.json";
+      break;
+    case "project":
+      endpoint = "project/project.json";
+      break;
+    case "activity":
+      endpoint = "activity/activity.json";
+      break;
+    default:
+      // Handle other cases or provide a default endpoint
+      break;
+  }
+
+  let response = await fetch(endpoint);
   const data = await response.json();
   return data;
 }
 
-function showCertification(certification) {
-  let certificationContainer = document.querySelector(
-    ".certification .content"
-  );
-  let certificationHTML = "";
-  certification.forEach((certification) => {
-    certificationHTML += `
+function showCertificates(certificates) {
+  let certificateContainer = document.querySelector(".certification .content");
+  let certificateHTML = "";
+  certificates.forEach((certificate) => {
+    certificateHTML += `
         <div class="box" data-aos="fade-down">
             <img
                 draggable="false"
-                src="${certification.image}"
-                alt="certification"/>
+                src="${certificate.image}"
+                alt="certificate"/>
             <div class="desc">
                 <h3>
-                    ${certification.name}
+                    ${certificate.name}
                 </h3>
             </div>
         </div>`;
   });
-  certificationContainer.innerHTML = certificationHTML;
+  certificateContainer.innerHTML = certificateHTML;
 }
-function showProject(project) {
+
+function showProjects(projects) {
   let projectContainer = document.querySelector(".project .content");
   let projectHTML = "";
-  project.slice(0, 90).forEach((project) => {
+  projects.slice(0, 90).forEach((project) => {
     projectHTML += `
         <div class="cards" >
     <img draggable="false" src="${project.image}" alt=""/>
@@ -92,12 +105,42 @@ function showProject(project) {
   });
   projectContainer.innerHTML = projectHTML;
 }
+
+function showActivities(activities) {
+  let activityContainer = document.querySelector(".activity .content");
+  let activityHTML = "";
+  activities.slice(0, 90).forEach((activity) => {
+    activityHTML += `
+    <div class="cards">
+      <div class="activity-card" data-aos="fade-down">
+        <img draggable="false" src="${activity.image}" alt="activity"/>
+        <div class="desc-content d-flex flex-column text-justify">
+          <div class="tag">
+            <h3>${activity.title}</h3>
+            <h5>${activity.desc}</h5>
+          </div>
+        </div>
+      </div>
+    </div>`;
+  });
+
+  activityContainer.innerHTML = activityHTML;
+
+}
+
+// Usage example
 fetchData("certification").then((data) => {
-  showCertification(data);
+  showCertificates(data);
 });
+
 fetchData("project").then((data) => {
-  showProject(data);
+  showProjects(data);
 });
+
+fetchData("activity").then((data) => {
+  showActivities(data);
+});
+
 
 // loadmore button
 const loadmore = document.querySelector(".loadmore-btn");
@@ -119,6 +162,9 @@ loadmore.addEventListener("click", () => {
     loadmore.classList.add("d-none");
   }
 });
+
+
+
 
 // animate on scroll (AOS)
 AOS.init();

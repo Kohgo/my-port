@@ -1,0 +1,86 @@
+[
+    {
+        "title": "เข้าร่วมกิจกรรม ENGINEERING OPEN HOUSE AT BANGMOD",
+        "tech": "PYTHON",
+        "image": "./assets/img/activity/IMG_5654.PNG",
+        "desc":"    ในการเข้าร่วมในครั้งนี้หนูได้เข้าร่วมworkshop ภาควิชาไฟฟ้าในหัวข้อ Basic electrical measurement ได้ความรู้เกี่ยวกับการต่อวงจรเเละการทดสอบกระเสไฟฟ้า เเละยังได้เข้าร่วมworkshop motor ซึ่งเป็นการต่อไฟฟ้าเข้าmotor",
+        "links": {
+            
+    
+            "demo": "https://colab.research.google.com/drive/1nF1xVQfrhU1MucjgSnvq8nHi5G_EDFv0?authuser=1",
+            "code": "https://github.com/Kohgo/Kohgo/blob/main/%E0%B8%AA%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87_sale_analysis.ipynb?short_path=43da053"
+        }
+    },
+    {
+        "title": "ได้เข้าร่วมโครงการ Discovery Piscine For non-IT ",
+        "tech": "PYTHON",
+        "image": "./assets/img/activity/IMG_5654.PNG",
+        "desc":"ในการเข้าร่วมในครั้งนี้หนูได้เข้าร่วมworkshop ภาควิชาไฟฟ้าในหัวข้อ Basic electrical measurement ได้ความรู้เกี่ยวกับการต่อวงจรเเละการทดสอบกระเสไฟฟ้า เเละยังได้เข้าร่วมworkshop motor ซึ่งเป็นการต่อไฟฟ้าเข้าmotor",
+        "links": {
+            
+    
+            "demo": "https://colab.research.google.com/drive/1nF1xVQfrhU1MucjgSnvq8nHi5G_EDFv0?authuser=1",
+            "code": "https://github.com/Kohgo/Kohgo/blob/main/%E0%B8%AA%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87_sale_analysis.ipynb?short_path=43da053"
+        }
+    },
+    {
+        "title": "Rush Project",
+        "tech": "HTML, CSS & JS",
+        "image": "./assets/img/project/Web capture_18-11-2023_195732_rush-project-ykrm.onrender.com.jpeg",
+        "desc":"This is my project web about HTML CSS JS",
+        "links": {
+            "demo": "https://rush-project-ykrm.onrender.com/",
+            "code": "https://github.com/Kohgo/rush"
+        }
+    },
+    {
+        "title": "Rush Project",
+        "tech": "HTML, CSS & JS",
+        "image": "./assets/img/project/Web capture_18-11-2023_195732_rush-project-ykrm.onrender.com.jpeg",
+        "desc":"This is my project web about HTML CSS JS",
+        "links": {
+            "demo": "https://rush-project-ykrm.onrender.com/",
+            "code": "https://github.com/Kohgo/rush"
+        }
+    },
+    {
+        "title": "Rush Project",
+        "tech": "HTML, CSS & JS",
+        "image": "./assets/img/project/Web capture_18-11-2023_195732_rush-project-ykrm.onrender.com.jpeg",
+        "desc":"This is my project web about HTML CSS JS",
+        "links": {
+            "demo": "https://rush-project-ykrm.onrender.com/",
+            "code": "https://github.com/Kohgo/rush"
+        }
+    },
+    {
+        "title": "Rush Project",
+        "tech": "HTML, CSS & JS",
+        "image": "./assets/img/project/Web capture_18-11-2023_195732_rush-project-ykrm.onrender.com.jpeg",
+        "desc":"This is my project web about HTML CSS JS",
+        "links": {
+            "demo": "https://rush-project-ykrm.onrender.com/",
+            "code": "https://github.com/Kohgo/rush"
+        }
+    },
+    {
+        "title": "Rush Project",
+        "tech": "HTML, CSS & JS",
+        "image": "./assets/img/project/Web capture_18-11-2023_195732_rush-project-ykrm.onrender.com.jpeg",
+        "desc":"This is my project web about HTML CSS JS",
+        "links": {
+            "demo": "https://rush-project-ykrm.onrender.com/",
+            "code": "https://github.com/Kohgo/rush"
+        }
+    },
+    {
+        "title": "Rush Project",
+        "tech": "HTML, CSS & JS",
+        "image": "./assets/img/project/Web capture_18-11-2023_195732_rush-project-ykrm.onrender.com.jpeg",
+        "desc":"This is my project web about HTML CSS JS",
+        "links": {
+            "demo": "https://rush-project-ykrm.onrender.com/",
+            "code": "https://github.com/Kohgo/rush"
+        }
+    }
+]
