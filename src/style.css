@@ -557,12 +557,14 @@ form .btn{
   min-height: 100vh;
   background: #0003a0;
 
+
 }
 .project .container .title h2{
   font-size: 40px ;
   padding-top: 120px;
   font-weight: 800;
   color: var(--light);
+  margin-bottom: 80px;
 } 
 .project .container .title i{
   color: var(--danger);
@@ -581,7 +583,7 @@ form .btn{
   overflow: hidden;
   flex: 1 1 400px;
   cursor: pointer;
-  margin: 20px;
+  margin: 50px;
 }
 .project .container .content .cards img {
   width: 100%;
@@ -700,7 +702,7 @@ form .btn{
   top: 64%;
   background: var(--second);
   transition: .8s;
-  margin-top: 94px;
+  margin-top: 80px;
 }
 .activity .container .content .activity-card .desc-content .tag,
 .activity .container .content .activity-card .desc-content .desc {
