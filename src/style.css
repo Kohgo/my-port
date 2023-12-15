@@ -679,13 +679,13 @@ form .btn{
 }
 
 .activity .container .content .activity-card {
-  border-radius: 5px;
+  border-radius: 15px;
   position: relative;
-  height: 350px;
+  height: 400px; 
   overflow: hidden;
-  flex: 1 1 400px;
+  flex: 1 1 350px;
   cursor: pointer;
-  margin: 20px;
+  margin: 75px; 
 }
 .activity .container .content .activity-card img {
   width: 100%;
@@ -700,7 +700,7 @@ form .btn{
   top: 64%;
   background: var(--second);
   transition: .8s;
-  margin-top: 80px;
+  margin-top: 94px;
 }
 .activity .container .content .activity-card .desc-content .tag,
 .activity .container .content .activity-card .desc-content .desc {
