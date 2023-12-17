@@ -836,6 +836,7 @@ form .btn{
 /* footer */
 footer{
   height: 100%;
+  background-color: darkblue;
 }
 
 footer .top{
@@ -843,8 +844,8 @@ footer .top{
 }
 
 footer .bottom{
-  background: #000155;
-  color: var(--danger);
+  background: darkorange;
+  color: var(--second);
  
 }
 footer .bottom a{
@@ -853,7 +854,7 @@ footer .bottom a{
 footer .content{
     margin: 20px;
     text-decoration: none;
-    color: var(--dark);
+    color: var(--display);
 }
 footer .content img{
   width: 50px;
@@ -866,7 +867,7 @@ footer .content:nth-child(3) a i{
 footer .content a, 
 footer .content p{
   text-decoration: none;
-  color: var(--dark);
+  color: var(--display);
   margin-bottom: 6px;
   font-size: 18px;
 }footer .content a:hover{
@@ -905,4 +906,3 @@ footer .content .socials a:hover {
     flex-direction: column;
   }
 }
-
