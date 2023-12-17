@@ -812,12 +812,12 @@ form .btn{
   max-width: 650px;
   font-size: 20px;
   margin: 40px;
-  color: var(--dark);
+  color: var(--display);
 }
 .contact a{
 
   font-size: 20px;
-  color: var(--dark);
+  color: var(--display);
 }
 
 .contact h2{
