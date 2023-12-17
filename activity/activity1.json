@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Rush Project",
+        "tech": "HTML, CSS & JS",
+        "image": "./assets/img/project/Web capture_18-11-2023_195732_rush-project-ykrm.onrender.com.jpeg",
+        "desc":"This is my project web about HTML CSS JS",
+        "links": {
+            "demo": "https://rush-project-ykrm.onrender.com/",
+            "code": "https://github.com/Kohgo/rush"
+        }
+    },
+    {
+        "title": "Rush Project",
+        "tech": "HTML, CSS & JS",
+        "image": "./assets/img/project/Web capture_18-11-2023_195732_rush-project-ykrm.onrender.com.jpeg",
+        "desc":"This is my project web about HTML CSS JS",
+        "links": {
+            "demo": "https://rush-project-ykrm.onrender.com/",
+            "code": "https://github.com/Kohgo/rush"
+        }
+    },
+    {
+        "title": "Rush Project",
+        "tech": "HTML, CSS & JS",
+        "image": "./assets/img/project/Web capture_18-11-2023_195732_rush-project-ykrm.onrender.com.jpeg",
+        "desc":"This is my project web about HTML CSS JS",
+        "links": {
+            "demo": "https://rush-project-ykrm.onrender.com/",
+            "code": "https://github.com/Kohgo/rush"
+        }
+    },
+    {
+        "title": "Rush Project",
+        "tech": "HTML, CSS & JS",
+        "image": "./assets/img/project/Web capture_18-11-2023_195732_rush-project-ykrm.onrender.com.jpeg",
+        "desc":"This is my project web about HTML CSS JS",
+        "links": {
+            "demo": "https://rush-project-ykrm.onrender.com/",
+            "code": "https://github.com/Kohgo/rush"
+        }
+    },
+    {
+        "title": "Rush Project",
+        "tech": "HTML, CSS & JS",
+        "image": "./assets/img/project/Web capture_18-11-2023_195732_rush-project-ykrm.onrender.com.jpeg",
+        "desc":"This is my project web about HTML CSS JS",
+        "links": {
+            "demo": "https://rush-project-ykrm.onrender.com/",
+            "code": "https://github.com/Kohgo/rush"
+        }
+    }
+]
