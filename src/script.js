@@ -23,6 +23,7 @@ window.addEventListener("scroll", function () {
   }
 });
 
+
 // fetchData API
 async function fetchData(type = "certification") {
   let endpoint;
@@ -194,7 +195,7 @@ document.onkeydown = function (e){
 
 // Scrollspy botstrap
 const scrollSpy = new bootstrap.ScrollSpy(document.body, {
-  target: ".navbar",
+  target: ".",
 });
 
 // scroll reveal animation content
