@@ -77,6 +77,7 @@
                         <li class="nav-item mx-2">
                             <a class="nav-link" href="#activity">Activity</a>
                         </li>
+                        
                     
                     </ul>
                     <form>
@@ -103,8 +104,8 @@
                     </h2>
                     <p>I Am
                         <span class="typing-text"></span></p>
-                    <a href="#contact" class="btn mt-5 mb-0">
-                        <span>Get in touch</span>
+                    <a href="#video" class="btn mt-5 mb-0">
+                        <span>Presentation</span>
                         <i class="fas fa-arrow-circle-down"></i>
                     </a>
                     <div class="socials mt-4 position-relative">
@@ -299,10 +300,13 @@
                         data-aos="fade-down">
                         <!-- Your activity cards go here -->
                     </div>
+                    <div class="viewall-btn d-flex my-5 " data-aos="fade-down">
+                        <a href="inactivity.html" class="btn btn-outline-primary">View All
+                        </a>
+                    </div>
                 </div>
-                
-            </section>
-            <section
+                   
+         <section
             id="contact"
             class="contact d-flex flex-column align-items-center justify-content-center text-center">
             <h2 class="title" data-aos="fade-down" data-aos-duration="1000">Get In
@@ -320,41 +324,65 @@
                 <i class="fa fa-envelope"></i>
             </a>
         </section>
-        
+         
+        <!DOCTYPE html>
+<html lang="en">
+<head>
     <style>
+        body {
+            margin: 0; /* Remove default margin */
+            padding: 0; /* Remove default padding */
+        }
+
         #video {
             display: flex;
+            flex-direction: column;
             justify-content: center;
             align-items: center;
-            height: 100vh; /* ทำให้ div ทั้งหมดเต็มสูงของหน้าจอ */
-            
-            height: 350px;
-
+            height: 75vh; /* Set the height of the section to the full viewport height */
         }
 
         #myVideo {
-            width: 460px; /* กำหนดขนาดตามที่คุณต้องการ */
-            height: 280px; /* กำหนดขนาดตามที่คุณต้องการ */
+            width: 580px;
+            height: 320px;
+            margin-bottom: 10px;
         }
-       
 
-
-       
-         
-
-        
+        #title h1{
+            font-weight: 680;
+            padding-bottom: 25px;
+            margin-top: 20px; 
+            text-align: center;
+            color: orangered;
+          
+            
+        }
     </style>
-  
-    
 </head>
 <body>
 
 <section id="video">
-   
-    <iframe id="myVideo" src="https://www.youtube.com/embed/xu2I20mt9Yg" frameborder="0" allowfullscreen></iframe>
-    
-   
+    <div id="title" class="container d-flex flex-wrap justify-content-center align-items-center">
+        <div class="title" data-aos="fade-down" data-aos-duration="1000">
+            <h1 class="text-center">
+                <i class="fa fa-laptop-code"></i>
+                Presentation</h1>
+    <iframe id="myVideo" src="https://www.youtube.com/embed/yT3hyM6oSck" frameborder="0" allowfullscreen></iframe>
 </section>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+       
+
+       
 
 <script src="your_script.js"></script>
         <footer id="footer" class="footer d-flex flex-column">
@@ -365,7 +393,7 @@
                     <p>Thank you for visiting my personal portfolio website.</p>
                 </div>
                 <div class="content d-flex flex-column ">
-                    <h3>Useful Links</h3>
+                    <h3>Menu  </h3>
                     <a href="#home">
                         <i class="fa fa-arrow-circle-right"></i>
                         Home</a>
