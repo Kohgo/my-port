@@ -835,14 +835,14 @@ form .btn{
 
 /* footer */
 footer{
-  height: 100vh;
-  background-color: darkblue;
+  height:100%;
+  
 }
 
 footer .top{
+  background: #0003a0;
  
 }
-
 footer .bottom{
   background: darkorange;
   color: var(--second);
