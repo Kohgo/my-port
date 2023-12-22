@@ -1,52 +1,86 @@
 [
     {
-        "title": "Rush Project",
-        "tech": "HTML, CSS & JS",
-        "image": "./assets/img/project/Web capture_18-11-2023_195732_rush-project-ykrm.onrender.com.jpeg",
-        "desc":"This is my project web about HTML CSS JS",
+        "title": "ได้เข้าร่วมกิจกรรม IEEE Magnetic Society School 2023 Empowering the Future of Advanced Materials",
+        "tech": "PYTHON",
+        "image": "./assets/img/activity/IMG_5676.PNG",
+        "desc":"    โดยกิจกรรมในครั้งนี้ได้รับเกียรติจากนักวิจัยและผู้เชี่ยวชาญเฉพาะด้านชั้นนำของประเทศจากหลากหลายมหาวิทยาลัยมากกว่า 8 มหาวิทยาลัยมาบรรยายให้ความรู้และแลกเปลี่ยนประสบการณ์ทางด้านงานวิจัยทั้งในภาค academicและ industry อีกทั้งยังได้เรียนรู้เกี่ยวกับการพัฒนาด้านวัสดุศาสตร์เทคนิคการวิเคราะห์คุณสมบัติและลักษณะเฉพาะด้านขั้นสูง ",
         "links": {
-            "demo": "https://rush-project-ykrm.onrender.com/",
-            "code": "https://github.com/Kohgo/rush"
+            
+    
+            "demo": "https://colab.research.google.com/drive/1nF1xVQfrhU1MucjgSnvq8nHi5G_EDFv0?authuser=1",
+            "code": "https://github.com/Kohgo/Kohgo/blob/main/%E0%B8%AA%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87_sale_analysis.ipynb?short_path=43da053"
         }
     },
     {
-        "title": "Rush Project",
-        "tech": "HTML, CSS & JS",
-        "image": "./assets/img/project/Web capture_18-11-2023_195732_rush-project-ykrm.onrender.com.jpeg",
-        "desc":"This is my project web about HTML CSS JS",
+        "title": "เข้าร่วมกิจกรรม ENGINEERING OPEN HOUSE AT BANGMOD",
+        "tech": "PYTHON",
+        "image": "./assets/img/activity/IMG_5683.PNG",
+        "desc":"ในการเข้าร่วมในครั้งนี้หนูได้เข้าร่วมworkshop ภาควิชาไฟฟ้าในหัวข้อ Basic electrical measurement ได้ความรู้เกี่ยวกับการต่อวงจรเเละการทดสอบกระเสไฟฟ้า เเละยังได้เข้าร่วมworkshop motor ซึ่งเป็นการต่อไฟฟ้าเข้าmotor",
         "links": {
-            "demo": "https://rush-project-ykrm.onrender.com/",
-            "code": "https://github.com/Kohgo/rush"
+            
+    
+            "demo": "https://colab.research.google.com/drive/1nF1xVQfrhU1MucjgSnvq8nHi5G_EDFv0?authuser=1",
+            "code": "https://github.com/Kohgo/Kohgo/blob/main/%E0%B8%AA%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87_sale_analysis.ipynb?short_path=43da053"
         }
     },
     {
-        "title": "Rush Project",
-        "tech": "HTML, CSS & JS",
-        "image": "./assets/img/project/Web capture_18-11-2023_195732_rush-project-ykrm.onrender.com.jpeg",
-        "desc":"This is my project web about HTML CSS JS",
+        "title": "ได้เข้าร่วมอบรมเชิงปฏิบัตการหัวข้อ Machine Vision",
+        "tech": "PYTHON",
+        "image": "./assets/img/activity/IMG_5680.PNG",
+        "desc":"    ภายใต้หัวโปรเเกรม Matrox Imagingได้ความรู้เกี่ยวกับกับนำMachine Visionเข้ามามีส่วนร่วมในส่วนของอุตสาหกรรมที่เเก้ปัญหาที่มนุษย์ไม่สามารถทำได้หรือทำได้เเต่ใช้เวลานานเเละมีErrorที่เกิดขึ้น เเถมยังได้ลองทำworkshopเกี่ยวกับMachine visionอีก3workshopอีกด้วยค่ะ",
         "links": {
-            "demo": "https://rush-project-ykrm.onrender.com/",
-            "code": "https://github.com/Kohgo/rush"
+            
+    
+            "demo": "https://colab.research.google.com/drive/1nF1xVQfrhU1MucjgSnvq8nHi5G_EDFv0?authuser=1",
+            "code": "https://github.com/Kohgo/Kohgo/blob/main/%E0%B8%AA%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87_sale_analysis.ipynb?short_path=43da053"
         }
     },
     {
-        "title": "Rush Project",
-        "tech": "HTML, CSS & JS",
-        "image": "./assets/img/project/Web capture_18-11-2023_195732_rush-project-ykrm.onrender.com.jpeg",
-        "desc":"This is my project web about HTML CSS JS",
+        "title": "ได้เข้าร่วมกิจกรรม  Bootcamp for  Statistics Career #2",
+        "tech": "PYTHON",
+        "image": "./assets/img/activity/IMG_5681.PNG",
+        "desc":"ในการเข้าร่วมในครั้งนี้หนูได้ความรู้เกี่ยวกับการวิเคราะห์ข้อมูลด้วยสถิติเบื้องต้น เเละยังได้ความรู้เกี่ยวโปรเเกรมเพื่อวิเคราะห์ข้อมูลเเละสร้างกราฟได้ลงมือปฏิบัติจริงโดยใช้โปรเเกรมlookerstudio นอกจากนี้ยังได้ฟังบรรยายเกี่ยวกับสายงานด้านdataว่ามีความสำคัญกับอุตสาหกรรมยังไงโดยพี่ๆศิษย์เก่าจากภาควิชาสถิติเเละการวิเคราะห์ข้อมูล",
         "links": {
-            "demo": "https://rush-project-ykrm.onrender.com/",
-            "code": "https://github.com/Kohgo/rush"
+            
+    
+            "demo": "https://colab.research.google.com/drive/1nF1xVQfrhU1MucjgSnvq8nHi5G_EDFv0?authuser=1",
+            "code": "https://github.com/Kohgo/Kohgo/blob/main/%E0%B8%AA%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87_sale_analysis.ipynb?short_path=43da053"
         }
     },
     {
-        "title": "Rush Project",
-        "tech": "HTML, CSS & JS",
-        "image": "./assets/img/project/Web capture_18-11-2023_195732_rush-project-ykrm.onrender.com.jpeg",
-        "desc":"This is my project web about HTML CSS JS",
+        "title": "ได้เข้าร่วมเข้าร่วมอบรม หลักสูตร Basic Bioinformatic,AI techniques and Research Challenges for Pharmacy AI: เครื่องมือสำคัญของนวัตกรรมด้านยา",
+        "tech": "PYTHON",
+        "image": "./assets/img/activity/IMG_5682.PNG",
+        "desc":"โดยความร่วมมือของคณะเภสัชศาสตร์ และ คณะ ICT มหาวิทยาลัยมหิดลที่ได้นำความรู้ด้านAIมามีส่วนช่วยในการสร้างนวัตกรรมด้านยาโดยได้มีการเรียนรู้พื้นฐานเเละทักษะของ Basic Bioinformatic,AI techniques and Research Challenges for Pharmacy เพื่อการค้นพบยาใหม่เเละการเชื่อมต่อระหว่างชีววิทยาและวิทยาศาสตร์ข้อมูล",
         "links": {
-            "demo": "https://rush-project-ykrm.onrender.com/",
-            "code": "https://github.com/Kohgo/rush"
+            
+    
+            "demo": "https://colab.research.google.com/drive/1nF1xVQfrhU1MucjgSnvq8nHi5G_EDFv0?authuser=1",
+            "code": "https://github.com/Kohgo/Kohgo/blob/main/%E0%B8%AA%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87_sale_analysis.ipynb?short_path=43da053"
+        }
+    },
+    {
+        "title": "ได้ผ่านการเข้าร่วมอบรมเชิงปฏิบัติการ“INDUSTRIAL ROBOT CAMP 2",
+        "tech": "PYTHON",
+        "image": "./assets/img/activity/IMG_5684.PNG",
+        "desc":"นการเข้าค่ายในครั้งนี้หนูได้ความรู้เชิงทฤษฎีเเละได้ปฏิบัติการเกี่ยวกับหุ่นยนต์ ได้ลองเเว่นตาVRเเละได้ลองควบคุมหุ่นยนต์ยกเเละย้านสิ่งของในVR Technology Assisted Pick &Place Robot ได้ลองควบคุมหุ่นยนต์เชื่อมโลหะเเละได้ความรู้เกี่ยวกับการเขียนโปรเเกรมควบคุมหุ่นยนต์ในWeldingRobot Armเเละสุดท้ายได้ลองเขียนโปรเเกรมเพื่อควบคุมหุ่นยนต์ให้สามารถยกขวดน้ำเเละเทลงเเก้ว",
+        "links": {
+            
+    
+            "demo": "https://colab.research.google.com/drive/1nF1xVQfrhU1MucjgSnvq8nHi5G_EDFv0?authuser=1",
+            "code": "https://github.com/Kohgo/Kohgo/blob/main/%E0%B8%AA%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87_sale_analysis.ipynb?short_path=43da053"
+        }
+    },
+    {
+        "title": "ได้เข้าร่วมการอบรมโครงการSTEM:เรื่องยานยนต์สมัยใหม่ได้เข้าร่วมโครงการ Discovery Piscine For non-IT ",
+        "tech": "PYTHON",
+        "image": "./assets/img/activity/IMG_5685.PNG",
+        "desc":"ได้ความรู้เกี่ยวกับหลักการทำงานขอสนามแม่เหล็ก ชนิดมอเตอร์การออกแบบPCB วงจรควบคุมมอเตอร์ดุม การออกแบบพลังงานสำรอง(แบตเตอรี่) ประกอบวงจรBMS การทดลองต่อวงจรไฟฟ้าควบคุมมอเตอร์ดุมล้อ การทดสอบมอเตอร์ไฟฟ้า และยังได้ลองประดิษฐ์เครื่องยนต์ไฟฟ้าขึ้นมาเเละได้ลองขี่จริงๆเพื่อทดสอบความเร็วเเละการทำงาน",
+        "links": {
+            
+    
+            "demo": "https://colab.research.google.com/drive/1nF1xVQfrhU1MucjgSnvq8nHi5G_EDFv0?authuser=1",
+            "code": "https://github.com/Kohgo/Kohgo/blob/main/%E0%B8%AA%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87_sale_analysis.ipynb?short_path=43da053"
         }
     }
 ]
