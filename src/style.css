@@ -205,17 +205,21 @@ form .btn{
   font-weight: 600;
   font-size: 20px;
   letter-spacing: 1px;
+  
 }
 .home .btn i {
-  margin-left: 9px;
-  font-size: 20px;
+  margin-left: 8px;
   transition: 0.5s;
+ 
+  
 }
 .home .btn:hover {
   background: var(--second);
+  
 }
 .home .btn:hover i {
   transform: translateX(6px);
+  
 }
 
 .socials .social-icons {
@@ -235,6 +239,7 @@ form .btn{
   -webkit-transition: all 0.2s linear;
   -o-transition: all 0.2s linear;
   transition: all 0.2s linear;
+
 }
 
 .social-icons a:active,

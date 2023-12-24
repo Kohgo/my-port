@@ -1,6 +1,6 @@
 // typing text hero
 const typed = new Typed(".typing-text", {
-  strings: ["Basic Front-End Web Developer", "Basic UI Designer", "Content Creator"],
+  strings: ["Junior Front-End Web Developer", "Junior UI Designer", "Content Creator"],
   loop: true,
   typeSpeed: 55,
   backSpeed: 25,

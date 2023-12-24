@@ -14,8 +14,15 @@
             
         }
     }, {
+            "name": "",
+            "image": "./certification/IMG_5320.PNG",
+            "category":"programming",
+            "links": {
+                
+            }
+    }, {
         "name": "",
-        "image": "./certification/./IMG_5289.PNG",
+        "image": "./certification/./B1C163A0-27DC-4D7F-B103-9CECC63D48E3.png",
         "category":"programming",
         "links": {
             "credentials": ""
@@ -42,11 +49,73 @@
             }
             }, {
                 "name": "",
-                "image": "./certification/B1C163A0-27DC-4D7F-B103-9CECC63D48E3.png",
+                "image": "./certification/IMG_5289.PNG",
                 "category":"programming",
                 "links": {
                    
                 }
+                    }, {
+                        "name": "",
+                        "image": "./certification/IMG_5241.JPG",
+                        "category":"programming",
+                        "links": {
+                           
+                        }
+                        }, {
+                            "name": "",
+                            "image": "./certification/IMG_5290.PNG",
+                            "category":"programming",
+                            "links": {
+                               
+                            }
+                            }, {
+                                "name": "",
+                                "image": "./certification/IMG_5662.PNG",
+                                "category":"programming",
+                                "links": {
+                                   
+                                }
+                                }, {
+                                    "name": "",
+                                    "image": "./certification/IMG_5695.PNG",
+                                    "category":"programming",
+                                    "links": {
+                                       
+                                    }
+                                    }, {
+                                        "name": "",
+                                        "image": "./certification/IMG_5661.PNG",
+                                        "category":"programming",
+                                        "links": {
+                                           
+                                        }
+                                        }, {
+                                            "name": "",
+                                            "image": "./certification/14.png",
+                                            "category":"programming",
+                                            "links": {
+                                               
+                                            }
+                                            }, {
+                                                "name": "",
+                                                "image": "./certification/IMG_5145.PNG",
+                                                "category":"programming",
+                                                "links": {
+                                                   
+                                                }
+                                               
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+                
             
     }
+    
 ]
